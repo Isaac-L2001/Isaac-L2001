@@ -33,8 +33,8 @@
 - 📱 **[Lara 365 Experience - API & App Móvil](#)**
   
   *Solución integral con API RESTful en backend y aplicación móvil nativa desarrollada para la Cámara de Turismo del Estado Lara.*
-- **Tecnologías:** PHP (Laravel), MySQL, Kotlin, Jetpack Compose, REST API.
-- **Clave:** Arquitectura e integración de la API RESTful para el consumo de datos en tiempo real desde la app móvil nativa, aplicando desarrollo modular autodidacta y consumo eficiente de endpoints.
+  - **Tecnologías:** PHP (Laravel), MySQL, Kotlin, Jetpack Compose, REST API.
+  - **Clave:** Arquitectura e integración de la API RESTful para el consumo de datos en tiempo real desde la app móvil nativa, aplicando desarrollo modular autodidacta y consumo eficiente de endpoints.
 
 ---
 
