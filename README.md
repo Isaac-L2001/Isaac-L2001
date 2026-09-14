@@ -24,12 +24,14 @@
 ### 💻 **Proyectos Destacados**
 
 - 📦 **[Sistema de Gestión de Inventarios (SGI)](#)**
+  
   *Sistema web para la automatización y control de entrada/salida de mercancía.*
   - **Tecnologías:** PHP, HTML/CSS, JavaScript, MySQL.
   - **Clave:** Diseñé el modelo de base de datos relacional desde cero, implementé la lógica de negocio en backend para optimizar el flujo de inventario y desarrollé módulos de reporte con autenticación de usuarios.
 
 
 - 📱 **[Lara 365 Experience - API & App Móvil](#)**
+  
   *Solución integral con API RESTful en backend y aplicación móvil nativa desarrollada para la Cámara de Turismo del Estado Lara.*
 - **Tecnologías:** PHP (Laravel), MySQL, Kotlin, Jetpack Compose, REST API.
 - **Clave:** Arquitectura e integración de la API RESTful para el consumo de datos en tiempo real desde la app móvil nativa, aplicando desarrollo modular autodidacta y consumo eficiente de endpoints.
