@@ -23,7 +23,7 @@
 
 ### 💻 **Proyectos Destacados**
 
-- 📦 **[Sistema de Gestión de Inventarios (SGI)](#)**  
+- 📦 **[Sistema de Gestión de Inventarios (SGI)](#)**
   *Sistema web para la automatización y control de entrada/salida de mercancía.*
   - **Tecnologías:** PHP, HTML/CSS, JavaScript, MySQL.
   - **Clave:** Diseñé el modelo de base de datos relacional desde cero, implementé la lógica de negocio en backend para optimizar el flujo de inventario y desarrollé módulos de reporte con autenticación de usuarios.
